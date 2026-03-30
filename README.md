@@ -1,4 +1,4 @@
-# TekUpStudents
+# Student management web application 
 
 A full-featured student management web application built with **Angular 16**, designed for TekUp university. The platform provides separate portals for students and administrators, supporting surveys, certification management, requests, and complaints.
 
